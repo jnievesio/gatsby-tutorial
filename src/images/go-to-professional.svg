@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="267" height="51" viewBox="0 0 267 51">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_12" data-name="Rectángulo 12" width="26.048" height="26.789" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_12" data-name="Grupo 12" transform="translate(-999 -94)">
+    <g id="Rectángulo_6" data-name="Rectángulo 6" transform="translate(999 94)" fill="#00a4e1" stroke="#00a5e7" stroke-width="2">
+      <rect width="267" height="51" rx="25.5" stroke="none"/>
+      <rect x="1" y="1" width="265" height="49" rx="24.5" fill="none"/>
+    </g>
+    <g id="Grupo_11" data-name="Grupo 11" transform="translate(-3 -1)">
+      <text id="IR_A_MODO_PROFESIONAL" data-name="IR A MODO PROFESIONAL" transform="translate(1025 127)" fill="#fff" font-size="17" font-family="'Baloo Bhai \32 '" font-weight="500"><tspan x="0" y="0">IR A MODO PROFESIONAL</tspan></text>
+      <g id="Grupo_10" data-name="Grupo 10" transform="translate(1220.446 105)">
+        <rect id="Rectángulo_11" data-name="Rectángulo 11" width="16.464" height="3.624" transform="translate(4.792 23.165)" fill="#fff"/>
+        <g id="Grupo_9" data-name="Grupo 9">
+          <g id="Grupo_8" data-name="Grupo 8" clip-path="url(#clip-path)">
+            <path id="Trazado_33" data-name="Trazado 33" d="M26.048,9.231a5.7,5.7,0,0,0-5.537-5.85,5.268,5.268,0,0,0-2.268.512A5.568,5.568,0,0,0,13.024,0,5.568,5.568,0,0,0,7.8,3.893a5.268,5.268,0,0,0-2.268-.512A5.7,5.7,0,0,0,0,9.231a5.753,5.753,0,0,0,4.792,5.8v6.909H21.256V15.028a5.753,5.753,0,0,0,4.792-5.8" transform="translate(0 -0.001)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
